@@ -1,4 +1,4 @@
-DEFAULT_GREETING = "Hello,"
+DEFAULT_GREETING = "Hello "
 
 
 def get_greeting(name):
